@@ -30,3 +30,8 @@ Spring은 일룸 쇼핑몰 개발 및 퍼시스 사내 프로그램 개발 당�
 + Reference
  > https://khj93.tistory.com/entry/Spring-Spring-Framework%EB%9E%80-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC
  > https://wordbe.tistory.com/entry/Spring-Java-Spring-%EA%B8%B0%EB%B3%B8
+
+### 오늘의 회고
++ 어디서부터 다시 봐야할지 막막해서 여러 문서를 보던 도중 Maven을 사용하고, pom.xml을 이용했던게 새록새록 기억이난다.(생각보다 뿌듯)
++ Maven을 찾아보던 중에 Maven의 Lifecycle의 각 단계를 Phase라고 한다는 것을 보았다!(우리 Framework 이름이 Phase..) 이름 지을 때 고려됐으려나 ㅎㅎ
++ Spring의 annotation을 편하게 사용만 했었는데 이제 좀 깊게 공부해서 응용해보고 싶다 
